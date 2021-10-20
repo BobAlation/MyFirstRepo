@@ -1,0 +1,115 @@
+{
+    "action_links": [
+        {
+            "title": "NBA",
+            "expandDescriptions": true,
+            "description": "National Basketball Association Domain",
+            "img": "https://nba.alationcatalog.com/media/docs/article/396/nba.jpg",
+            "navigateURL": "https://nba.alationcatalog.com/domain/1/"
+        },
+        {
+            "title": "WNBA",
+            "expandDescriptions": true,
+            "description": "Women's National Basketball Association Domain",
+            "img": "https://nba.alationcatalog.com/media/docs/article/396/wnba_icon.jpg",
+            "navigateURL": "https://nba.alationcatalog.com/domain/2/"
+        },
+        {
+            "title": "Finance",
+            "expandDescriptions": true,
+            "description": "The source for Accounting, FP&A and Purchasing data",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/finance.jpg",
+            "navigateURL": "article/386/"
+        },
+        {
+            "title": "HR",
+            "expandDescriptions": true,
+            "description": "Recruting, Onboarding, Retention, Recognition",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/hr.png",
+            "navigateURL": "article/387/"
+        },
+        {
+            "title": "Legal & Compliance",
+            "expandDescriptions": true,
+            "description": "Policies, Governance",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/customer_service.jpg",
+            "navigateURL": "article/388/"
+        }
+    ],
+    "admin_sections": [
+        {
+            "objects": [
+                {
+                    "otype": "article",
+                    "oid": 6
+                },
+                {
+                    "otype": "article",
+                    "oid": 396
+                }
+            ],
+            "type": "object_window_row"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/glossary/5/",
+                    "expandDescriptions": true,
+                    "description": "Understand the business terms used by your organization.",
+                    "img": "/static/img/homepage_images/colored_images/BGTeal.png",
+                    "title": "Business Glossary"
+                },
+                {
+                    "navigateURL": "/glossary/3/",
+                    "expandDescriptions": true,
+                    "description": "Learn about the data policies that exist within your organization.",
+                    "img": "/static/img/homepage_images/colored_images/ArticlePurple.png",
+                    "title": "Policy Center"
+                },
+                {
+                    "navigateURL": "/glossary/2/",
+                    "expandDescriptions": true,
+                    "description": "A repository of articles to help you deploy Alation successfully.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-ABOK.png",
+                    "title": "ABOK"
+                }
+            ],
+            "type": "carousel",
+            "title": "Learn more about our data"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/help_center/",
+                    "expandDescriptions": true,
+                    "description": "Alation's online help center.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Help-Center.png",
+                    "title": "Help Center"
+                },
+                {
+                    "navigateURL": "https://alation.thoughtindustries.com/sign_in",
+                    "expandDescriptions": true,
+                    "description": "Alation's online learning portal.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-University.png",
+                    "title": "Alation University"
+                },
+                {
+                    "navigateURL": "https://community.alation.com/home",
+                    "expandDescriptions": true,
+                    "description": "Alation's online user community.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-Community.png",
+                    "title": "Alation Community"
+                },
+                {
+                    "navigateURL": "/data/9/",
+                    "expandDescriptions": true,
+                    "description": "Alation Analytics is a gateway into the database that backs Alation. It can be used to answer questions about how your users are interacting with Alation, etc.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-Analytics.png",
+                    "title": "Alation Analytics"
+                }
+            ],
+            "type": "carousel",
+            "title": "Learn more about Alation"
+        }
+    ]
+}

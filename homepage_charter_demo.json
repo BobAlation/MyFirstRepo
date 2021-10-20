@@ -1,0 +1,115 @@
+{
+    "action_links": [
+        {
+            "title": "Tableau",
+            "expandDescriptions": true,
+            "description": "Tableau Objects",
+            "img": "https://bobdemo3.alationcatalog.com/media/docs/article/437/tableau-icon.png",
+            "navigateURL": "https://bobdemo3.alationcatalog.com/full_search/?limit=25&row_num=0&results_view=table&filters=%7B%22otypes%22%3A%5B%22bi_server%22%2C%22report_source%22%2C%22bi_datasource%22%2C%22report_datasource%22%2C%22report_collection%22%2C%22bi_folder%22%2C%22bi_report%22%2C%22report_object%22%2C%22bi_field%22%5D%2C%22fields%22%3A%7B%22report_source%22%3A%5B%223_0_gbm%22%5D%7D%7D&saved_search_id=3"
+        },
+        {
+            "title": "Microstrategy",
+            "expandDescriptions": true,
+            "description": "Microstrategy Objects",
+            "img": "https://bobdemo3.alationcatalog.com/media/docs/article/437/mstr_icon.png",
+            "navigateURL": "https://bobdemo3.alationcatalog.com/full_search/?limit=25&row_num=0&results_view=table&filters=%7B%22otypes%22%3A%5B%22bi_server%22%2C%22report_source%22%2C%22bi_datasource%22%2C%22report_datasource%22%2C%22report_collection%22%2C%22bi_folder%22%2C%22bi_report%22%2C%22report_object%22%2C%22bi_field%22%5D%2C%22fields%22%3A%7B%22report_source%22%3A%5B%2217_8_gbm%22%5D%7D%7D&saved_search_id=4/"
+        },
+        {
+            "title": "Finance",
+            "expandDescriptions": true,
+            "description": "The source for Accounting, FP&A and Purchasing data",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/finance.jpg",
+            "navigateURL": "article/386/"
+        },
+        {
+            "title": "HR",
+            "expandDescriptions": true,
+            "description": "Recruting, Onboarding, Retention, Recognition",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/hr.png",
+            "navigateURL": "article/387/"
+        },
+        {
+            "title": "Legal & Compliance",
+            "expandDescriptions": true,
+            "description": "Policies, Governance",
+            "img": "https://alation-demo-data.s3.amazonaws.com/images/homepage/customer_service.jpg",
+            "navigateURL": "article/388/"
+        }
+    ],
+    "admin_sections": [
+        {
+            "objects": [
+                {
+                    "otype": "article",
+                    "oid": 6
+                },
+                {
+                    "otype": "article",
+                    "oid": 170
+                }
+            ],
+            "type": "object_window_row"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/glossary/5/",
+                    "expandDescriptions": true,
+                    "description": "Understand the business terms used by your organization.",
+                    "img": "/static/img/homepage_images/colored_images/BGTeal.png",
+                    "title": "Business Glossary"
+                },
+                {
+                    "navigateURL": "/glossary/3/",
+                    "expandDescriptions": true,
+                    "description": "Learn about the data policies that exist within your organization.",
+                    "img": "/static/img/homepage_images/colored_images/ArticlePurple.png",
+                    "title": "Policy Center"
+                },
+                {
+                    "navigateURL": "/glossary/2/",
+                    "expandDescriptions": true,
+                    "description": "A repository of articles to help you deploy Alation successfully.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-ABOK.png",
+                    "title": "ABOK"
+                }
+            ],
+            "type": "carousel",
+            "title": "Learn more about our data"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/help_center/",
+                    "expandDescriptions": true,
+                    "description": "Alation's online help center.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Help-Center.png",
+                    "title": "Help Center"
+                },
+                {
+                    "navigateURL": "https://alation.thoughtindustries.com/sign_in",
+                    "expandDescriptions": true,
+                    "description": "Alation's online learning portal.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-University.png",
+                    "title": "Alation University"
+                },
+                {
+                    "navigateURL": "https://community.alation.com/home",
+                    "expandDescriptions": true,
+                    "description": "Alation's online user community.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-Community.png",
+                    "title": "Alation Community"
+                },
+                {
+                    "navigateURL": "/data/9/",
+                    "expandDescriptions": true,
+                    "description": "Alation Analytics is a gateway into the database that backs Alation. It can be used to answer questions about how your users are interacting with Alation, etc.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-Analytics.png",
+                    "title": "Alation Analytics"
+                }
+            ],
+            "type": "carousel",
+            "title": "Learn more about Alation"
+        }
+    ]
+}

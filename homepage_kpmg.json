@@ -1,0 +1,97 @@
+{
+    "action_links": [
+        {
+            "title": "DAS",
+            "expandDescriptions": true,
+            "description": "Deal Advisory and Strategy Practice",
+            "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+            "navigateURL": "domain/1"
+        },
+        {
+            "title": "Consulting",
+            "expandDescriptions": true,
+            "description": "Corporate Services, Federal, Risk ",
+            "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+            "navigateURL": "article/385/"
+        },
+        {
+            "title": "Use Case Glossary",
+            "expandDescriptions": true,
+            "description": "View the Glossary of Use Cases",
+            "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+            "navigateURL": "glossary/21/"
+        },
+        {
+            "title": "DataShelf",
+            "expandDescriptions": true,
+            "description": "Datasets available on the DataShelf",
+            "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+            "navigateURL": "https://kpmg01.alationcatalog.com/full_search/?q=datashelf&limit=25&row_num=0&results_view=table&filters=%7B%22otypes%22%3A%5B%22table%22%5D%7D&saved_search_id=2"
+        },
+        {
+            "title": "KPMG Persona Workflow",
+            "expandDescriptions": true,
+            "description": "Alation Workflows for identified KPMG personas",
+            "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+            "navigateURL": "https://kpmg01.alationcatalog.com/article/416/kpmg-alation-user-workflows"
+        }
+    ],
+    "admin_sections": [
+        {
+            "objects": [
+                {
+                    "otype": "article",
+                    "oid": 395
+                }
+            ],
+            "type": "object_window_row"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/glossary/21/",
+                    "expandDescriptions": true,
+                    "description": "Understand the business terms",
+                    "img": "https://cdn.iconscout.com/icon/free/png-512/kpmg-1-285150.png",
+                    "title": "Use Cases"
+                },
+                {
+                    "navigateURL": "/bi/v2/server/13/",
+                    "expandDescriptions": true,
+                    "description": "View Dataiku",
+                    "img": "/media/image_bank/2021-08-26-15-36-22-959521-00-00-af8879fb-4fb8-4388-b828-62d0cc9333d5.png",
+                    "title": "Dataiku"
+                },
+                {
+                    "navigateURL": "data/31/",
+                    "expandDescriptions": true,
+                    "description": "Snowflake",
+                    "img": "/media/image_bank/2021-08-26-15-36-05-578544-00-00-45110b6e-7303-4ef7-a7fc-9d3c2115e5b1.png",
+                    "title": "Snowflake"
+                }
+            ],
+            "type": "carousel",
+            "title": "Learn more about our data"
+        },
+        {
+            "tiles": [
+                {
+                    "navigateURL": "/help_center/",
+                    "expandDescriptions": true,
+                    "description": "Alation's online help center.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Help-Center.png",
+                    "title": "Help Center"
+                },
+                {
+                    "navigateURL": "/glossary/5/",
+                    "expandDescriptions": true,
+                    "description": "Alation's online learning portal.",
+                    "img": "https://alation-demo-data.s3.amazonaws.com/images/clean_demo_homepage/Demo-Product-Tile-Photos_400x300-Alation-University.png",
+                    "title": "Business Glossary"
+                }
+            ],
+            "type": "carousel",
+            "title": "More Resources"
+        }
+    ]
+}
